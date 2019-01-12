@@ -1,0 +1,9 @@
+/target/
+/test-output/
+.idea/compiler.xml
+.idea/misc.xml
+.idea/workspace.xml
+.idea/libraries
+.idea/kotlinc.xml
+.idea/uiDesigner.xml
+/.settings/
